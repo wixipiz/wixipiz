@@ -2,7 +2,6 @@ name: generate animation
 
 on:
   schedule:
-    # Berjalan otomatis setiap 12 jam
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
