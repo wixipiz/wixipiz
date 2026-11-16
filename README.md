@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/boot.svg" width="100%" alt="boot sequence terminal"/>
+</div?
+
 <p align="center">
   <picture>
     <source
